@@ -50,3 +50,39 @@ Snort-NIDS-Custom-Rules/
 Start Snort in console alert mode (fast format):  
 
 sudo snort -c /etc/snort/snort.lua -i eth0 -A alert_fast
+
+## 📸 Screenshots
+
+Below are example alert screenshots (click to view on GitHub):
+
+- ![Brute Force Attempt detected.jpg](docs/screenshots/Brute Force Attempt detected.jpg)
+- ![DNS query detected.jpg](docs/screenshots/DNS query detected.jpg)
+- ![Dirb scan Detected.jpg](docs/screenshots/Dirb scan Detected.jpg)
+- ![Dos Ddos attack detected.jpg](docs/screenshots/Dos Ddos attack detected.jpg)
+- ![Metasploit User-Agent Detected.jpg](docs/screenshots/Metasploit User-Agent Detected.jpg)
+- ![Metasploit detected.jpg](docs/screenshots/Metasploit detected.jpg)
+- ![SQL Injection Detected.jpg](docs/screenshots/SQL Injection Detected.jpg)
+- ![Sql Injection (Encoded OR 1=1) Detected.jpg](docs/screenshots/Sql Injection (Encoded OR 1=1) Detected.jpg)
+- ![Sql Injection Tautology Detected.jpg](docs/screenshots/Sql Injection Tautology Detected.jpg)
+- ![Syn scan detected snort.jpg](docs/screenshots/Syn scan detected snort.jpg)
+- ![UDP packet detected.jpg](docs/screenshots/UDP packet detected.jpg)
+- ![UNION sql detected.jpg](docs/screenshots/UNION sql detected.jpg)
+- ![Webshell detected.jpg](docs/screenshots/Webshell detected.jpg)
+- ![XMAS scan detected.jpg](docs/screenshots/XMAS scan detected.jpg)
+- ![XSS detected.jpg](docs/screenshots/XSS detected.jpg)
+- ![Xss Encoded Detected.jpg](docs/screenshots/Xss Encoded Detected.jpg)
+- ![aggressive scan detected.jpg](docs/screenshots/aggressive scan detected.jpg)
+- ![ftp connection detected.jpg](docs/screenshots/ftp connection detected.jpg)
+- ![http Brute force detected.jpg](docs/screenshots/http Brute force detected.jpg)
+- ![http access attempt detected .jpg](docs/screenshots/http access attempt detected .jpg)
+- ![https access detected.jpg](docs/screenshots/https access detected.jpg)
+- ![malware detected .jpg](docs/screenshots/malware detected .jpg)
+- ![mysql access detected.jpg](docs/screenshots/mysql access detected.jpg)
+- ![nikto scan detected.jpg](docs/screenshots/nikto scan detected.jpg)
+- ![ping detected snort.jpg](docs/screenshots/ping detected snort.jpg)
+- ![port scan detected.jpg](docs/screenshots/port scan detected.jpg)
+- ![rdp connection detected.jpg](docs/screenshots/rdp connection detected.jpg)
+- ![smb file sharing detected.jpg](docs/screenshots/smb file sharing detected.jpg)
+- ![smtp mail detected.jpg](docs/screenshots/smtp mail detected.jpg)
+- ![ssh Connection Attempt Detected.jpg](docs/screenshots/ssh Connection Attempt Detected.jpg)
+- ![telnet connection detected.jpg](docs/screenshots/telnet connection detected.jpg)
