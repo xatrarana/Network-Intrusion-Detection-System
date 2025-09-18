@@ -49,3 +49,4 @@ Snort-NIDS-Custom-Rules/
 ## ▶️ Run (example)
 Start Snort in console alert mode (fast format):  
 
+sudo snort -c /etc/snort/snort.lua -i eth0 -A alert_fast
