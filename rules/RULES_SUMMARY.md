@@ -1,0 +1,35 @@
+- **SID 2000001** — [ALERT] SQL Injection Attempt Detected (OR 1=1)
+- **SID 2000002** — [ALERT] SQL Injection Attempt Detected (Encoded OR 1=1)
+- **SID 2000003** — [ALERT] SQL Injection Attempt Detected (UNION SELECT)
+- **SID 2000004** — [ALERT] SQL Injection Attempt Detected (Tautology a=a)
+- **SID 2000100** — [ALERT] Metasploit Exploit Detected (Header)
+- **SID 2000101** — [ALERT] Metasploit Exploit Detected (Meterpreter User-Agent)
+- **SID 1000001** — [ALERT] Nmap SYN Scan Detected
+- **SID 1000013** — [ALERT] Port Scan Detected
+- **SID 1000022** — [ALERT] Nmap XMAS Scan Detected
+- **SID 1000024** — [ALERT] Aggressive Port Scan Detected
+- **SID 1000002** — [ALERT] SSH Connection Attempt Detected
+- **SID 1000014** — [ALERT] Brute Force Attempt Detected
+- **SID 1000003** — [ALERT] ICMP Echo Request Detected
+- **SID 1000004** — [ALERT] HTTP Access Attempt Detected
+- **SID 1000005** — [ALERT] HTTPS Access Attempt Detected
+- **SID 1000006** — [ALERT] FTP Connection Attempt Detected
+- **SID 1000007** — [ALERT] TELNET Connection Attempt Detected
+- **SID 1000008** — [ALERT] RDP Connection Attempt Detected
+- **SID 1000009** — [ALERT] MySQL Access Attempt Detected
+- **SID 1000010** — [ALERT] SMTP Mail Attempt Detected
+- **SID 1000011** — [ALERT] DNS Query Detected
+- **SID 1000012** — [ALERT] SMB File Sharing Attempt Detected
+- **SID 2000301** — [ALERT] EXE File Request Detected
+- **SID 400001** — [ALERT] EXE File Download Detected (MIME Header)
+- **SID 400002** — [ALERT] EXE File Download Detected (MZ Payload)
+- **SID 1000056** — [ALERT] Nikto Scan Detected
+- **SID 1000057** — [ALERT] Dirb Scan Detected
+- **SID 1000300** — [ALERT] XSS Attempt Detected (<script>)
+- **SID 1000301** — [ALERT] XSS Attempt Detected (alert)
+- **SID 1000302** — [ALERT] XSS Attempt Detected (Encoded)
+- **SID 1000400** — [ALERT] Possible Webshell Upload Detected (.php)
+- **SID 1000401** — [ALERT] Possible Webshell Upload Detected (.asp)
+- **SID 1000402** — [ALERT] Possible Webshell Upload Detected (.jsp)
+- **SID 1000020** — [ALERT] Possible DoS/DDoS Attack Detected
+- **SID 1000015** — [ALERT] UDP Packet Detected

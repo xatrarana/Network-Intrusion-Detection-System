@@ -1,0 +1,15 @@
+# Ignore pcap files
+*.pcap
+
+# Ignore temporary files
+*.tmp
+*.log
+*.swp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache
+__pycache__/
+*.pyc
